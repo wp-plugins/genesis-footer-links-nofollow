@@ -31,6 +31,9 @@ This plugin will set the links in the footer of your website as "nofollow" links
 = Why should I set footer links as nofollow? =
 Google may consider site-wide links as spammy. 
 
+= My theme uses Footer Widgets. Will they be affected? =
+No. This only changes the links in the Site Footer (Where you'll usually find the copyright)
+
 = Can I apply this to certain domains only? =
 Planned for the next release.
 
