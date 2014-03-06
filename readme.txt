@@ -7,13 +7,13 @@ Stable tag: 0.2
 License: GPLv2 or later
 License URI: http://www.opensource.org/licenses/gpl-license.php
 
-Plugin makes all or specified links in the footer rel=nofollow.  Use of Genesis Theme Framework is required.
+Plugin makes all or specified links in the footer rel=nofollow.  Use of Genesis Framework is required.
 
 == Description ==
 
 This plugin will set the links in the footer of your website as "nofollow" links. (This does not include Footer Widgets). Optionally, you can exclude footer links on the home page from being set as "nofollow". Footer links that  appear on all pages of a site may be considered as unnatural or spammy by the search engines and will devalue those links. 
 
-*This plugin requires the Genesis Theme Framework.*
+*This plugin requires the Genesis Framework.*
 
 = Feedback =
 * I am open to suggestions and feedback! 
